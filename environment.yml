@@ -1,0 +1,48 @@
+name: hoi
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2023.12.12=hecd8cb5_0
+  - libcxx=14.0.6=h9765a3e_0
+  - libffi=3.4.4=hecd8cb5_0
+  - ncurses=6.4=hcec6c5f_0
+  - openssl=3.0.12=hca72f7f_0
+  - pip=23.3.1=py38hecd8cb5_0
+  - python=3.8.18=h5ee71fb_0
+  - readline=8.2=hca72f7f_0
+  - setuptools=68.2.2=py38hecd8cb5_0
+  - sqlite=3.41.2=h6c40b1e_0
+  - tk=8.6.12=h5d9f67b_0
+  - wheel=0.41.2=py38hecd8cb5_0
+  - xz=5.4.5=h6c40b1e_0
+  - zlib=1.2.13=h4dc903c_0
+  - pip:
+      - certifi==2023.11.17
+      - charset-normalizer==3.3.2
+      - cloudpickle==3.0.0
+      - contourpy==1.1.1
+      - cycler==0.12.1
+      - cython==3.0.7
+      - fonttools==4.47.0
+      - future==0.18.3
+      - idna==3.6
+      - importlib-resources==6.1.1
+      - kiwisolver==1.4.5
+      - matplotlib==3.7.4
+      - numpy==1.24.4
+      - packaging==23.2
+      - panopticapi==0.1
+      - pillow==10.1.0
+      - pycocotools==2.0
+      - pyparsing==3.1.1
+      - python-dateutil==2.8.2
+      - requests==2.31.0
+      - scipy==1.10.1
+      - six==1.16.0
+      - submitit==1.5.1
+      - torch==1.5.1
+      - torchvision==0.6.1
+      - typing-extensions==4.9.0
+      - urllib3==2.1.0
+      - zipp==3.17.0
+prefix: /Users/mohitsaiaravindnunna/miniconda3/envs/hoi
